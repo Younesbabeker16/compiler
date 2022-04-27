@@ -1,0 +1,13 @@
+
+fonction index(){
+floo iden1 = 254.
+vergul id5 = 36,254.
+char chane="BABEKER_younes#best#"
+lire(id5).
+}
+fonction index(){
+ecrire("donner une chaine").
+naturel n.
+naturel k.
+n=n+k.
+}
